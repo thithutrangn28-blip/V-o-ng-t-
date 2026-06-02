@@ -1,0 +1,89 @@
+{
+  "1779180208574": {
+    "isEnabled": true,
+    "autoVectorizeMode": "full_only",
+    "chunkSize": 1200,
+    "overlapSize": 150,
+    "maxContextTokens": 15000,
+    "maxChunks": 15,
+    "minSimilarity": 0.95,
+    "limitResults": 15,
+    "recentFirst": true,
+    "importanceFirst": true,
+    "mainCharFirst": true,
+    "strongEmotionFirst": true,
+    "deduplicate": true,
+    "skipShortChunks": true,
+    "embeddingKeys": [
+      {
+        "id": "emb_1779555910292",
+        "name": "Chìa nhúng dễ thương ",
+        "provider": "Google AI",
+        "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+        "apiKey": "QUl6YVN5Q2tfRmVpYzVBLUZEV1ZNbEpnYlBYRU1EUFNXRFJkZTlv",
+        "model": "gemini-embedding-001",
+        "status": "using",
+        "errorCount": 0,
+        "lastUsed": "2026-05-23T17:06:45.123Z"
+      },
+      {
+        "id": "emb_1779788515858",
+        "name": "Chìa nhúng Bánh Nhỏ",
+        "provider": "Google AI",
+        "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+        "apiKey": "QUl6YVN5QzI5U0l4RWpibkFIVzZvX3Y2YjJ2RjZGa29sN3FGQmo0",
+        "model": "gemini-embedding-001",
+        "status": "ready",
+        "errorCount": 0,
+        "lastUsed": null
+      },
+      {
+        "id": "emb_1779788706323",
+        "name": "Chìa nhúng Dâu Tây ",
+        "provider": "Google AI",
+        "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+        "apiKey": "QUl6YVN5Q2w1dGx0dVVSMUR1aVJocVg1WEpUM3VXc3NReGtoWWFv",
+        "model": "gemini-embedding-001",
+        "status": "ready",
+        "errorCount": 0,
+        "lastUsed": null
+      }
+    ],
+    "isExplicitKeyUpdate": true
+  },
+  "global_vector_keys": [
+    {
+      "id": "emb_1779555910292",
+      "name": "Chìa nhúng dễ thương ",
+      "provider": "Google AI",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+      "apiKey": "QUl6YVN5Q2tfRmVpYzVBLUZEV1ZNbEpnYlBYRU1EUFNXRFJkZTlv",
+      "model": "gemini-embedding-001",
+      "status": "using",
+      "errorCount": 0,
+      "lastUsed": "2026-05-23T17:06:45.123Z"
+    },
+    {
+      "id": "emb_1779788515858",
+      "name": "Chìa nhúng Bánh Nhỏ",
+      "provider": "Google AI",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+      "apiKey": "QUl6YVN5QzI5U0l4RWpibkFIVzZvX3Y2YjJ2RjZGa29sN3FGQmo0",
+      "model": "gemini-embedding-001",
+      "status": "ready",
+      "errorCount": 0,
+      "lastUsed": null
+    },
+    {
+      "id": "emb_1779788706323",
+      "name": "Chìa nhúng Dâu Tây ",
+      "provider": "Google AI",
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta",
+      "apiKey": "QUl6YVN5Q2w1dGx0dVVSMUR1aVJocVg1WEpUM3VXc3NReGtoWWFv",
+      "model": "gemini-embedding-001",
+      "status": "ready",
+      "errorCount": 0,
+      "lastUsed": null
+    }
+  ]
+}

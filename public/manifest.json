@@ -1,0 +1,21 @@
+{
+  "name": "Snack chấm sữa 🥛",
+  "short_name": "Snack sữa",
+  "description": "Hệ thống giả lập nhập vai và truyện tiểu thuyết Kikoko Memory System",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F3B4C2",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/dVvXk7cx/f61816f17dbdc4a236fc5d60a79c25d6.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/dVvXk7cx/f61816f17dbdc4a236fc5d60a79c25d6.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
